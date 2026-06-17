@@ -63,3 +63,6 @@ git init
   65 git commit -m "Clean git commands file"                                                                                                                                                            
   66 git push -f origin master                                                                                                                                                                          
   67 git reset --soft 33798e9   
+
+
+new changes made
