@@ -1,0 +1,8 @@
+git init                                                                                                                                                                                           
+   4 git status                                                                                                                                                                                         
+   5 git add Testing.py                                                                                                                                                                                 
+   6 git status                                                                                                                                                                                         
+   7 git commit -m "added Testing.py"                                                                                                                                                                   
+   8 git status                                                                                                                                                                                         
+   9 history                                                                                                                                                                                            
+  10 clear     
