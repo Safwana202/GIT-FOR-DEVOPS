@@ -6,3 +6,60 @@ git init
    8 git status                                                                                                                                                                                         
    9 history                                                                                                                                                                                            
   10 clear     
+  git remote add origin https://github.com/Safwana202/GIT-FOR-DEVOPS.git                                                                                                                             
+  12 git remote -v                                                                                                                                                                                      
+  13 git remote set-url origin                                                                                         
+  14 git remote -v                                                                                                                                                                                      
+  15 git push origin master                                                                                                                                                                             
+  16 git remote set-url origin https:// PAT @github.com/Safwana202/GIT-FOR-DEVOPS.git                                                                               
+  17 git remote-v                                                                                                                                                                                       
+  18 git remote -v                                                                                                                                                                                      
+  19 git push origin master                                                                                                                                                                             
+  20 git remote set-url origin https:// PAT@github.com/Safwana202/GIT-FOR-DEVOPS.git                                                                      
+  21 git remote set -url origin                                                                                                                                                                         
+  22 git remote set-url origin https:// PAT@github.com/Safwana202/GIT-FOR-DEVOPS.git                                                                               
+  23 git remote remove origin                                                                                                                                                                           
+  24 git remote add origin https://github.com/Safwana@202/GIT-FOR-DEVOPS.git                                                                                                                            
+  25 git remote -v                                                                                                                                                                                      
+  26 git push origin master                                                                                                                                                                             
+  27 git remote add origin https://github.com/Safwana202/GIT-FOR-DEVOPS.git                                                                                                                             
+  28 git remote -v                                                                                                                                                                                      
+  29 git remote set - url origin https://github.com/Safwana202/GIR-FOR-DEVOPS.git                                                                                                                       
+  30 git remote se - url origin https://github.com/Safwana202/GIR-FOR-DEVOPS.git                                                                                                                        
+  31 git remote set- url origin https://github.com/Safwana202/GIR-FOR-DEVOPS.git                                                                                                                        
+  32 git remote set-url origin https://github.com/Safwana202/GIR-FOR-DEVOPS.git                                                                                                                         
+  33 git remote -v                                                                                                                                                                                      
+  34 git push origin master                                                                                                                                                                             
+  35 git push origin master                                                                                                                                                                             
+  36 git push origin master                                                                                                                                                                             
+  37 git push origin master                                                                                                                                                                             
+  38 git remote set-url origin https://github.com/Safwana202/GIT-FOR-DEVOPS.git                                                                                                                         
+  39 git remote -v                                                                                                                                                                                      
+  40 git push -u orgin master                                                                                                                                                                           
+  41 git push -u origin master                                                                                                                                                                          
+  42 git status                                                                                                                                                                                         
+  43 git add git-commands.txt                                                                                                                                                                           
+  44 git commit -m "added git commands file"                                                                                                                                                            
+  45 git push origin master                                                                                                                                                                             
+  46 history                                                                                                                                                                                            
+  47 git status                                                                                                                                                                                         
+  48 git push origin master                                                                                                                                                                             
+  49 git status                                                                                                                                                                                         
+  50 git status                                                                                                                                                                                         
+  51 git add git-commands.txt                                                                                                                                                                           
+  52 git commit -m "added git-commands.txt"                                                                                                                                                             
+  53 git push origin                                                                                                                                                                                    
+  54 git status                                                                                                                                                                                         
+  55 git add git-commands.txt                                                                                                                                                                           
+  56 git commit -m "added git-commands.txt"                                                                                                                                                             
+  57 git push origin master                                                                                                                                                                             
+  58 git status                                                                                                                                                                                         
+  59 git push origin master                                                                                                                                                                             
+  60 git log --oneline                                                                                                                                                                                  
+  61 git reset --soft 33798e9                                                                                                                                                                           
+  62 git status                                                                                                                                                                                         
+  63 git add.                                                                                                                                                                                           
+  64 git add .                                                                                                                                                                                          
+  65 git commit -m "Clean git commands file"                                                                                                                                                            
+  66 git push -f origin master                                                                                                                                                                          
+  67 git reset --soft 33798e9   
